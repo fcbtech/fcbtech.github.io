@@ -1,0 +1,357 @@
+[
+    {
+        "from": "^/blogs/tags",
+        "to": "/blogs",
+        "status": 301
+    },
+    {
+        "from": "^/blogs/categories/sales-and-accounts",
+        "to": "/blogs",
+        "status": 301
+    },
+    {
+        "from": "^/blogs/categories/quality-and-stores",
+        "to": "/blogs",
+        "status": 301
+    },
+    {
+        "from": "^/blogs/categories/purchase-and-Production",
+        "to": "/blogs",
+        "status": 301
+    },
+    {
+        "from": "^/blogs/categories/management",
+        "to": "/blogs",
+        "status": 301
+    },
+    {
+        "from": "^/blogs/union-budget-2022-23-india-towards-its-resilient-amrit-kaal",
+        "to": "/blogs",
+        "status": 301
+    },
+    {
+        "from": "^/blogs/lessons-from-covid-19-4-inventory-management-strategies",
+        "to": "/blogs",
+        "status": 301
+    },
+    {
+        "from": "^/blogs/indian-smes-what-should-they-learn-from-industry-leaders",
+        "to": "/blogs",
+        "status": 301
+    },
+    {
+        "from": "^/blogs/purchase-order-automation-a-step-by-step-guide-for-smes",
+        "to": "/blogs/purchase-order",
+        "status": 301
+    },
+    {
+        "from": "^/blogs/withdrawl-of-cancellation-application-of-gst-registration-under-reg-16",
+        "to": "/blogs",
+        "status": 301
+    },
+    {
+        "from": "^/blogs/ministry-of-finance-reduces-compliance-burden-in-gstr-9c",
+        "to": "/blogs",
+        "status": 301
+    },
+    {
+        "from": "^/blogs/gst-update-gstn-launches-improvements-in-gstr-1",
+        "to": "/blogs",
+        "status": 301
+    },
+    {
+        "from": "^/blogs/5-times-youll-regret-not-having-a-digital-solution-for-business",
+        "to": "/blogs/digital-india-why-businesses-should-go-digital",
+        "status": 301
+    },
+    {
+        "from": "^/blogs/the-ins-and-outs-of-gst-filing",
+        "to": "/blogs",
+        "status": 301
+    },
+    {
+        "from": "^/blogs/is-your-business-data-safe-in-cloud",
+        "to": "/blogs",
+        "status": 301
+    },
+    {
+        "from": "^/blogs/indian-msmes-contributing-to-govt-s-target-of-1-trillion-exports-by-2027",
+        "to": "/blogs",
+        "status": 301
+    },
+    {
+        "from": "^/blogs/how-can-smes-optimize-production-process-by-going-digital",
+        "to": "/blogs/digital-india-why-businesses-should-go-digital",
+        "status": 301
+    },
+    {
+        "from": "^/blogs/cant-keep-up-ways-to-grow-business-without-spending-money",
+        "to": "/blogs",
+        "status": 301
+    },
+    {
+        "from": "^/blogs/ways-to-help-your-team-yourself-keep-up-with-the-digital-transformation",
+        "to": "/blogs/digital-india-why-businesses-should-go-digital",
+        "status": 301
+    },
+    {
+        "from": "^/blogs/data-security-in-digital-solution-3-tips-for-business-owners",
+        "to": "/blogs",
+        "status": 301
+    },
+    {
+        "from": "^/blogs/ways-to-improve-cashflow-in-smes-during-pandemic",
+        "to": "/blogs",
+        "status": 301
+    },
+    {
+        "from": "^/blogs/is-your-team-ready-for-a-digital-solution",
+        "to": "/blogs",
+        "status": 301
+    },
+    {
+        "from": "^/blogs/ultimate-guide-for-managing-sme-businesses",
+        "to": "/blogs",
+        "status": 301
+    },
+    {
+        "from": "^/blogs/is-bi-useful-for-sme-owners",
+        "to": "/blogs",
+        "status": 301
+    },
+    {
+        "from": "^/blogs/the-way-out-for-smes-in-covid-second-wave",
+        "to": "/blogs",
+        "status": 301
+    },
+    {
+        "from": "^/blogs/is-digital-transformation-even-applicable-for-sme-businesses",
+        "to": "/blogs",
+        "status": 301
+    },
+    {
+        "from": "^/blogs/erp-disaster-in-smes-5-early-warning-signs",
+        "to": "/blogs",
+        "status": 301
+    },
+    {
+        "from": "^/blogs/take-charge-of-your-business-operations-remotely",
+        "to": "/blogs",
+        "status": 301
+    },
+    {
+        "from": "^/blogs/why-smes-are-facing-problems-with-quotation-tracking-in-2021",
+        "to": "/blogs",
+        "status": 301
+    },
+    {
+        "from": "^/blogs/6-guidelines-for-rating-and-evaluating-suppliers-and-vendors",
+        "to": "/blogs/what-is-supplier-relationship-management-supplier-rating-6-methods-for-doing-vendor-rating",
+        "status": 301
+    },
+    {
+        "from": "^/blogs/digitization-to-increase-profitability",
+        "to": "/blogs/digital-india-why-businesses-should-go-digital",
+        "status": 301
+    },
+    {
+        "from": "^/blogs/problems-of-smes-with-purchase-order",
+        "to": "/blogs/purchase-order",
+        "status": 301
+    },
+    {
+        "from": "^/blogs/tackling-top-4-sales-challenges-in-indian-smes",
+        "to": "/blogs",
+        "status": 301
+    },
+    {
+        "from": "^/blogs/e-way-bill-ultimate-guide-for-smes-about-e-way-bill-rules",
+        "to": "/blogs/e-way-bill-rules-process",
+        "status": 301
+    },
+    {
+        "from": "^/blogs/tally-shortcut-keys-ultimate-guide-for-every-indian-sme",
+        "to": "/blogs",
+        "status": 301
+    },
+    {
+        "from": "^/blogs/the-importance-of-keeping-an-accurate-inventory",
+        "to": "/blogs/inventory-management",
+        "status": 301
+    },
+    {
+        "from": "^/blogs/the-ultimate-guide-to-stores-and-inventory-management",
+        "to": "/blogs/inventory-management",
+        "status": 301
+    },
+    {
+        "from": "^/blogs/3-inventory-management-mistakes-you-could-be-making",
+        "to": "/blogs/inventory-management",
+        "status": 301
+    },
+    {
+        "from": "^/blogs/5-ways-old-processes-impede-new-inventory-management-strategies-and-how-to-overcome-that",
+        "to": "/blogs/inventory-management",
+        "status": 301
+    },
+    {
+        "from": "^/blogs/is-just-an-inventory-management-solution-enough-for-smes",
+        "to": "/blogs/inventory-management",
+        "status": 301
+    },
+    {
+        "from": "^/blogs/subcontracting-101-ultimate-guide-for-smes",
+        "to": "/blogs/subcontracting",
+        "status": 301
+    },
+    {
+        "from": "^/blogs/subcontracting-for-your-sme",
+        "to": "/blogs/subcontracting",
+        "status": 301
+    },
+    {
+        "from": "^/blogs/cbic-notifies-change-in-gst-rate-for-textiles-footwear-products",
+        "to": "/blogs",
+        "status": 301
+    },
+    {
+        "from": "^/blogs/how-digitization-and-domestic-manufacturing-can-help-india-grow",
+        "to": "/blogs",
+        "status": 301
+    },
+    {
+        "from": "^/blogs/best-ways-to-reduce-inventory-management-costs",
+        "to": "/blogs/inventory-management",
+        "status": 301
+    },
+    {
+        "from": "^/blogs/5-steps-to-streamline-your-warehouses-receiving-process",
+        "to": "/blogs/warehouse-receiving-process",
+        "status": 301
+    },
+    {
+        "from": "^/blogs/5-ways-inventory-management-software-increases-sales-profit",
+        "to": "/blogs/inventory-management",
+        "status": 301
+    },
+    {
+        "from": "^/blogs/is-sap-suitable-for-the-indian-sme-market",
+        "to": "/blogs",
+        "status": 301
+    },
+    {
+        "from": "^/blogs/2021s-top-inventory-management-software-for-smes",
+        "to": "/blogs/best-inventory-management-software-for-small-business",
+        "status": 301
+    },
+    {
+        "from": "^/blogs/7-inventory-optimization-strategies-for-smes",
+        "to": "/blogs/inventory-optimization",
+        "status": 301
+    },
+    {
+        "from": "^/blogs/8-benefits-of-e-invoicing-in-india-under-gst",
+        "to": "/blogs/e-invoice-in-gst",
+        "status": 301
+    },
+    {
+        "from": "^/blogs/2022s-best-warehouse-management-software-for-smes",
+        "to": "/blogs/best-warehouse-management-software",
+        "status": 301
+    },
+    {
+        "from": "^/blogs/cashless-economy-how-is-it-important-for-india",
+        "to": "/blogs/cashless-economy",
+        "status": 301
+    },
+    {
+        "from": "^/blogs/material-requirement-planning-mrp-ultimate-guide-for-smes",
+        "to": "/blogs/material-requirements-planning",
+        "status": 301
+    },
+    {
+        "from": "^/blogs/erp-for-smes-think-again",
+        "to": "/blogs/erp-software",
+        "status": 301
+    },
+    {
+        "from": "^/blogs/6-tips-on-introducing-inventory-management-system-to-your-business-how-to-prepare-for-it-and-what-to-consider",
+        "to": "/blogs/inventory-management-system",
+        "status": 301
+    },
+    {
+        "from": "^/blogs/best-erp-software-to-use-in-2021",
+        "to": "/blogs/best-erp-software-in-india",
+        "status": 301
+    },
+    {
+        "from": "^/blogs/credit-note-and-debit-note-in-gst-ultimate-guide-for-smes",
+        "to": "/blogs/debit-note-vs-credit-note",
+        "status": 301
+    },
+    {
+        "from": "^/blogs/inventory-management-ultimate-guide-for-smes",
+        "to": "/blogs/inventory-management",
+        "status": 301
+    },
+    {
+        "from": "^/blogs/streamline-inventory-management-easily-using-these-tips",
+        "to": "/blogs/inventory-management",
+        "status": 301
+    },
+    {
+        "from": "^/blogs/ultimate-guide-for-handling-purchase-and-procurement-processes-in-smes",
+        "to": "/blogs/procurement",
+        "status": 301
+    },
+    {
+        "from": "^/blogs/7-procurement-process-automation-steps-for-smes",
+        "to": "/blogs/procurement",
+        "status": 301
+    },
+    {
+        "from": "^/manufacturing-erp-software",
+        "to": "/solutions/manufacturing-erp-software",
+        "status": 301
+    },
+    {
+        "from": "^/inventory-management-software",
+        "to": "/solutions/inventory-management-software",
+        "status": 301
+    },
+    {
+        "from": "^/production-management-software",
+        "to": "/solutions/production-management-software",
+        "status": 301
+    },
+    {
+        "from": "^/blogs/best-erp-systems",
+        "to": "/blogs/best-erp-software-in-india",
+        "status": 301
+    },
+    {
+        "from": "^/blogs/erp-implementation-failure-how-company-size-matters",
+        "to": "/blogs/erp-implementation",
+        "status": 301
+    },
+    {
+        "from": "^/blogs/top-4-erp-implementation-myths-for-smes",
+        "to": "/blogs/erp-implementation",
+        "status": 301
+    },
+    {
+        "from": "^/blogs/why-does-erp-implementation-take-so-much-time",
+        "to": "/blogs/erp-implementation",
+        "status": 301
+    },
+    {
+        "from": "^/blogs/3-challenges-smes-face-in-implementing-erp-solutions",
+        "to": "/blogs/erp-implementation",
+        "status": 301
+    },
+    {
+        "from": "^/blogs/what-is-gst-invoice-gst-e-invoicing-5-problems-smes-face",
+        "to": "/blogs/gst-invoice",
+        "status": 301
+    }
+]
