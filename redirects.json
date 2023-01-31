@@ -353,5 +353,50 @@
         "from": "^/blogs/what-is-gst-invoice-gst-e-invoicing-5-problems-smes-face",
         "to": "/blogs/gst-invoice",
         "status": 301
+    },
+    {
+        "from": "^/blogs/ultimate-guide-about-invoicing-for-small-businesses",
+        "to": "/blogs/invoicing-and-billing",
+        "status": 301
+    },
+    {
+        "from": "^/blogs/production-planning-and-control-ultimate-guide-for-smesproduction-planning-and-control-ultimate-guide-for-smes",
+        "to": "/blogs/production-planning-and-control",
+        "status": 301
+    },
+    {
+        "from": "^/blogs/how-to-use-excel-for-inventory-mana-you-need-to-know",
+        "to": "/blogs/inventory-management-in-excel",
+        "status": 301
+    },
+    {
+        "from": "^/blogs/6-reasons-why-excel-doesnt-work-for-inventory-management",
+        "to": "/blogs/inventory-management-in-excel",
+        "status": 301
+    },
+    {
+        "from": "^/blogs/6-tips-for-smes-to-improve-their-production-planning-process",
+        "to": "/blogs/production-planning-and-control",
+        "status": 301
+    },
+    {
+        "from": "^/blogs/ultimate-guide-for-smes-about-stock-inventory-reconciliation",
+        "to": "/blogs/stock-reconciliation",
+        "status": 301
+    },
+    {
+        "from": "^/blogs/6-must-haves-features-for-your-inventory-software",
+        "to": "/solutions/inventory-management-software",
+        "status": 301
+    },
+    {
+        "from": "^/blogs/how-can-manufacturing-smes-benefits-from-production-routing",
+        "to": "/blogs/routing-in-production-planning-and-control-ultimate-guide-for-smes",
+        "status": 301
+    },
+    {
+        "from": "^/blogs/google-chrome-extension-5-marvelous-extensions-essential-for-smes",
+        "to": "/blogs",
+        "status": 301
     }
 ]
