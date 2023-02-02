@@ -1,0 +1,4 @@
+Sitemap: https://letstranzact.com/sitemap.xml
+User-Agent: *
+Disallow: 
+Allow: /
