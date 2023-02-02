@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/yvr", {data:[{_img:{"/_ipx/f_png/logo_black.png":"\u002F_nuxt\u002Fimage\u002Ff390df.png"}}],fetch:{},mutations:void 0});
