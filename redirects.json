@@ -408,5 +408,15 @@
         "from": "^/blogs/order-management-3-biggest-challenges-smes-faces",
         "to": "/blogs/order-management",
         "status": 301
+    },
+    {
+        "from": "^/case-studies-pages/pages/setco-chemicals",
+        "to": "/",
+        "status": 301
+    },
+    {
+        "from": "^/blogs/4-erp-failure-stories-and-how-to-not-be-one",
+        "to": "/blogs/erp-implementation",
+        "status": 301
     }
 ]
