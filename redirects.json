@@ -418,5 +418,15 @@
         "from": "^/blogs/4-erp-failure-stories-and-how-to-not-be-one",
         "to": "/blogs/erp-implementation",
         "status": 301
+    },
+    {
+        "from": "^/blogs/economic-order-quantity-how-eoq-is-useful-for-sme-businesses",
+        "to": "/blogs/eoq",
+        "status": 301
+    },
+    {
+        "from": "^/blogs/cloud-erp-solutions-are-secure-or-not",
+        "to": "/blogs/cloud-erp-software",
+        "status": 301
     }
 ]
