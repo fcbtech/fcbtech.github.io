@@ -428,5 +428,20 @@
         "from": "^/blogs/cloud-erp-solutions-are-secure-or-not",
         "to": "/blogs/cloud-erp-software",
         "status": 301
+    },
+    {
+        "from": "^/blogs/everything-to-know-about-hsn-codes-and-their-implications-in-gst",
+        "to": "/blogs/hsn-code",
+        "status": 301
+    },
+    {
+        "from": "^/blogs/everything-to-know-about-hsn-codes-and-their-implications-in-gst",
+        "to": "/blogs/hsn-code",
+        "status": 301
+    },
+    {
+        "from": "^/blogs/the-ultimate-guide-to-bill-of-materials-bom-management-for-smes",
+        "to": "/blogs/what-is-bill-of-materials-everything-you-should-know-about-bom",
+        "status": 301
     }
 ]
