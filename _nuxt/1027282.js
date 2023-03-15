@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[74],{1804:function(n,t,e){"use strict";e.r(t);var c={asyncData:function(n){return(0,n.redirect)(301,"https://app.letstranzact.com/v2/login")}},l=e(26),component=Object(l.a)(c,undefined,undefined,!1,null,null,null);t.default=component.exports}}]);
